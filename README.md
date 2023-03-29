@@ -1,5 +1,5 @@
 # Hi there :wave:
-:cactus: Series "Today I learn"
+:cactus: Series "Today I Learn"
 
 <p align="center"></p>
 
