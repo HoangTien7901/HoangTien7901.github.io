@@ -1,5 +1,5 @@
 # Hi there :wave:
-🌱 Series "Today I Learn".
+🌱 Series ["Today I Learn"](https://tiennminhh.github.io/).
 
 <p align="center"></p>
 
